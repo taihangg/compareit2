@@ -6,7 +6,7 @@
 
 对编辑的支持还没写完，EditorMgr_t.onReplaceText方法需要进一步完善。
 
-
+![例图](https://github.com/taihangg/compareit2/blob/main/img/img1.png)
 
 TODO：
 快捷键操作
